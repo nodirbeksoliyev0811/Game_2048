@@ -1,3 +1,5 @@
-# _Game-2048_
-## Run code:
-> python3 2048_game.py
+# Game-2048
+> ## Run code:
+```
+python3 2048_game.py
+```
